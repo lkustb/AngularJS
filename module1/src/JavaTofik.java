@@ -1,12 +1,11 @@
 /**
  * Created by kliu on 12/23/2015.
  */
-public class JavaTofik {
-    public static void main(String[] args) {
-        System.out.println("This is the test for the version control!");
+public class JavaTofik extends com.valo.newFeature.JavaTofik {
 
-        System.err.println("This is the first system.err here!");  //
 
+    public void JavaTofikTest()
+    {
+        System.out.println("JavaTofikTest-----002");
     }
-
 }
