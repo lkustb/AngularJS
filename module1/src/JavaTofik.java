@@ -5,6 +5,12 @@ public class JavaTofik {
     public static void main(String[] args) {
         System.out.println("This is the test for the version control!");
 
-        System.err.println("This is the first system.err here!");
+        System.err.println("This is the first system.err here!");  //
+
+    }
+
+    private void newFeature(){
+
+
     }
 }
