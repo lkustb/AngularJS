@@ -9,8 +9,4 @@ public class JavaTofik {
 
     }
 
-    private void newFeature(){
-
-
-    }
 }
