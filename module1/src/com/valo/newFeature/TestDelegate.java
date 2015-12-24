@@ -6,10 +6,5 @@ public class TestDelegate {
 
     private void newFeature() {
         System.out.println("This is the 2nd test here");
-
-        System.out.println("This is the 2nd Branch Here!");
-
-        System.out.println("Here is teh Master again!");
-
     }
 }
