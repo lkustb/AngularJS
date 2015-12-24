@@ -16,6 +16,8 @@ public class AnotherClass {
 
     private void testAnotherClass() {
         System.out.println("Test another Class from the Class!");
+
+        System.out.println("Here is after the merge!!");
     }
 
 }
