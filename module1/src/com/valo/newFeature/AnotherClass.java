@@ -10,7 +10,10 @@ public class AnotherClass {
         System.out.println("Print from main!");
         System.out.println("this is another test!");
 
-        System.out.println("this is Non-Shelve test!");
+        System.out.println("this is 3rd test!");
+
+        System.out.println("Try Stash!");
+
     }
 
 
