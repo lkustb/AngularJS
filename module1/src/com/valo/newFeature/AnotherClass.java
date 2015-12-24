@@ -7,8 +7,10 @@ public class AnotherClass {
 
 
     public static void main(String[] args) {
-        System.out.println("Print from main!")
+        System.out.println("Print from main!");
         System.out.println("this is another test!");
+
+        System.out.println("this is 3rd test!");
     }
 
 
